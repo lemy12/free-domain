@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+mailservertest: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 mashi: [ns1.desec.io, ns2.desec.org] # Register mashi.wip.la
 marco-rhel: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register marco-rhel.wip.la
 tgp24: [chip.ns.cloudflare.com, emma.ns.cloudflare.com]
